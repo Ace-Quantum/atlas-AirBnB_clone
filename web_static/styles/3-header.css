@@ -1,0 +1,18 @@
+header {
+    background: white; 
+    height: 70px; 
+    width: 100%;
+    border-bottom: 1px solid #CCCCCC;
+}
+
+.logo {
+    background-image: url("../images/logo.png");
+    height: 60px;
+    width: 142px;
+    display: block;
+}
+
+header .logocontainer {
+    text-align: left;
+    vertical-align: middle;
+}
