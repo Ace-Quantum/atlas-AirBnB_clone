@@ -1,7 +1,7 @@
 ![Air_BnB_Console_Project](https://github.com/Ace-Quantum/atlas-AirBnB_clone/assets/144152489/0b9474e9-f3c9-4410-bec2-ed01f7ea60ba)
 
 <p align="center">
-✨Presented by <a href="https://github.com/Ace-Quantum" target="_blank">Ace</a> and  <a href="https://github.com/Srixx24/">Jackie</a> ✨
+✨Presented by <a href="https://github.com/Ace-Quantum"; target="_blank">Ace</a> and  <a href="https://github.com/Srixx24/">Jackie</a> ✨
 </p>
 
 <br>
